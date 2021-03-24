@@ -4,7 +4,8 @@ This is the repo about web development
 ## Notes For Web Developing Stuff
 
 ## Hosting & Development
-Netlify & Heroku
+- Netlify 
+- Heroku
 
 Royalty Free images & video 
 - UNSPLASH - UNSPLASH.COM
@@ -27,6 +28,7 @@ Project Design Ideas
 
 - AWWWARDS - AWWWARDS.COM/WEBSITES
 - DRIBBBLE - DRIBBBLE.COM
+
 Freelancing
 
 - Upwork
@@ -38,9 +40,8 @@ Exercises & Algorithms
 - LEETCODE.COM
 - EXERCISM.IO
 - CODEWARS.COM
+
 Learning
 - FREECODECAMP
 - THE ODIN Project
 - MEM.DEV
-
-General Tools
